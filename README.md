@@ -63,7 +63,7 @@ sequenceDiagram
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/biometric-dos-defense-poc.git
+    git clone https://github.com/azhaxyly/biometric-dos-defense-poc.git
     cd biometric-dos-defense-poc
     ```
 2.  Install dependencies:
